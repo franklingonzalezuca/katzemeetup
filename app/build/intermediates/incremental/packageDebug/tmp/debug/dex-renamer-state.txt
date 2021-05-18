@@ -1,0 +1,4 @@
+#Tue May 18 06:35:36 CST 2021
+base.0=/home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

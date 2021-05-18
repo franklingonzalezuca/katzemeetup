@@ -1,0 +1,282 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/144b3caed63ffac9156be25be25123f0/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/08d7dcaad3f4ee7ea74c29c9d66b9b52/jetified-fragment-ktx-1.2.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/a504e4bff56ffc6d71b7ea38f4363dc8/navigation-ui-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/ee4105517997fcae2120ad4cd92a57a4/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/bce349a0f5d0ac1ed287413dfa8b0840/jetified-activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/ce7c46281b0115c94422592a70a24025/navigation-common-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] /home/Frank/.gradle/caches/transforms-2/files-2.1/ffda11d33e99ab644b91f92ae2105e26/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/a2e515a437835d86e690cb16391837ee/navigation-ui-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/4efa8805394355b71e7f476528d4ad1a/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/Frank/.gradle/caches/transforms-2/files-2.1/5f9c4bc2e6e086041afdfe1ba895f413/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/c8718b225cd4ce95b4dd18f64b2b949c/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/36e3ffc7818289bffa43193d5322c784/navigation-fragment-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha01] /home/Frank/.gradle/caches/transforms-2/files-2.1/a60f20a02489842c87b4f7d733e0f716/jetified-hilt-lifecycle-viewmodel-1.0.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.hilt:hilt-common:1.0.0-alpha01] /home/Frank/.gradle/caches/transforms-2/files-2.1/db1d3f78bc45187e34d3cad016e5bb4a/jetified-hilt-common-1.0.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.28-alpha] /home/Frank/.gradle/caches/transforms-2/files-2.1/7a4155c7c950b321052d22b5fefbc457/jetified-hilt-android-2.28-alpha/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /home/Frank/.gradle/caches/transforms-2/files-2.1/5cb8df4dcca3c2fa498e70732daf6920/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.2.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/3a81aa9a1aed714615e090ca0732cc63/jetified-room-ktx-2.2.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.2.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/16372817050a65fe95c4f35c09c34290/room-runtime-2.2.5/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/62b79f52c02b303eea2134898dde158f/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/4d5363b1cd2c1e3579e4ca10ee54bd43/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/Frank/.gradle/caches/transforms-2/files-2.1/f9cf02d1874875f31cac5dca806cdf52/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/Frank/.gradle/caches/transforms-2/files-2.1/31f67684df5ecb43bb06c86ec02a45d9/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/f88f07e98289bb133eaa368e961aad83/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/995541b4a228531b698c98fe55c6c74c/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/c734355e87ef7f133eb4a49a73955ea8/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/b42eae08a40dda1e714465a79607f447/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/1aa3d6797957aac8a1bc0e462163446d/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/ea094fb7cef764eadc12deb841254b2b/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/4dbed3a02beb69d1d0c003d57b7361eb/navigation-runtime-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/f383bbae7f926149d1e7fa5b125bbf30/fragment-1.2.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/effa354e16d2d8e87331e0462741e71c/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/75f36d62637fe628a2fcdac034b82565/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/44964015b4c917945c6256461b163d7b/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/ad1a16a6b34056a3e05e54b9665bf25e/navigation-common-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/Frank/.gradle/caches/transforms-2/files-2.1/e0a2e01b1e6d1dc38b1b0013f2d6b2a2/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/9479172283214c8d11e9f904e0005006/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/ced6e4296dd8b18d0e494e962604f403/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/ae3cc54826c335033289acdeff12b631/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/370847008477157f2e2ae6d73079db05/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /home/Frank/.gradle/caches/transforms-2/files-2.1/6cd6aa89b9255d6f3871af811db082d3/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/05f42b88de11abf4f3e159da9196bc2d/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/5031f6cbe96cdf5c91d3a03bfc186afc/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/330725a5858262b31f16924461c1bdfc/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/e9ed7ee4ab3b6249143a30e304ad07d5/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/Frank/.gradle/caches/transforms-2/files-2.1/b7e6bbdefe18c7ad831c5a5c30fe47d0/sqlite-framework-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/Frank/.gradle/caches/transforms-2/files-2.1/a99c8c7d5370685301afa4eaa4589d78/sqlite-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/73f5475d711df911131bd5d0066045e1/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/ad1cccee964c2508d93e7f885a7c3726/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/bd0a77f8839a6423f4527b2495e245b8/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/2b3ead8d056ecb32515c32acd1f58ee2/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /home/Frank/.gradle/caches/transforms-2/files-2.1/7b11bf7ea8e2dce3fbca246441af2310/lifecycle-livedata-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/Frank/.gradle/caches/transforms-2/files-2.1/df65c52efa57db73f703251dca572941/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/ce2385da8447ac9ae0b765fc6f163a64/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/366d52461d72e59e0a8cbb6e4e86985a/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/184fbae048e137f7fcca38c76537f29f/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/90e021d1c9b27b88431a40f8119525a9/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/739e4cc5c439381217ed0da38f568405/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/4d74b66a5ee05b38bafb711f0ba0a214/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.28] /home/Frank/.gradle/caches/transforms-2/files-2.1/7060667509677718b12ec8b5a3978175/jetified-dagger-lint-aar-2.28/AndroidManifest.xml:16:1-18:12
+INJECTED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml
+		ADDED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml
+		ADDED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [com.google.android.material:material:1.3.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/4efa8805394355b71e7f476528d4ad1a/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/4efa8805394355b71e7f476528d4ad1a/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/Frank/.gradle/caches/transforms-2/files-2.1/5f9c4bc2e6e086041afdfe1ba895f413/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/Frank/.gradle/caches/transforms-2/files-2.1/5f9c4bc2e6e086041afdfe1ba895f413/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.2.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/16372817050a65fe95c4f35c09c34290/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/16372817050a65fe95c4f35c09c34290/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/Frank/.gradle/caches/transforms-2/files-2.1/f9cf02d1874875f31cac5dca806cdf52/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/Frank/.gradle/caches/transforms-2/files-2.1/f9cf02d1874875f31cac5dca806cdf52/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.core:core:1.3.2] /home/Frank/.gradle/caches/transforms-2/files-2.1/6cd6aa89b9255d6f3871af811db082d3/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /home/Frank/.gradle/caches/transforms-2/files-2.1/6cd6aa89b9255d6f3871af811db082d3/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/ad1cccee964c2508d93e7f885a7c3726/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/ad1cccee964c2508d93e7f885a7c3726/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /home/Frank/.gradle/caches/transforms-2/files-2.1/6cd6aa89b9255d6f3871af811db082d3/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:12:9-50
+	android:icon
+		ADDED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:10:9-45
+	android:allowBackup
+		ADDED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:14:9-49
+	android:name
+		ADDED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:8:9-66
+activity#edu.franksprachen.katzemeetup.view.MainActivity
+ADDED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:15:19-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml
+INJECTED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/144b3caed63ffac9156be25be25123f0/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/144b3caed63ffac9156be25be25123f0/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/08d7dcaad3f4ee7ea74c29c9d66b9b52/jetified-fragment-ktx-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/08d7dcaad3f4ee7ea74c29c9d66b9b52/jetified-fragment-ktx-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/a504e4bff56ffc6d71b7ea38f4363dc8/navigation-ui-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/a504e4bff56ffc6d71b7ea38f4363dc8/navigation-ui-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/ee4105517997fcae2120ad4cd92a57a4/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/ee4105517997fcae2120ad4cd92a57a4/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/bce349a0f5d0ac1ed287413dfa8b0840/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/bce349a0f5d0ac1ed287413dfa8b0840/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/ce7c46281b0115c94422592a70a24025/navigation-common-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/ce7c46281b0115c94422592a70a24025/navigation-common-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /home/Frank/.gradle/caches/transforms-2/files-2.1/ffda11d33e99ab644b91f92ae2105e26/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /home/Frank/.gradle/caches/transforms-2/files-2.1/ffda11d33e99ab644b91f92ae2105e26/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/a2e515a437835d86e690cb16391837ee/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/a2e515a437835d86e690cb16391837ee/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/4efa8805394355b71e7f476528d4ad1a/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/4efa8805394355b71e7f476528d4ad1a/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/Frank/.gradle/caches/transforms-2/files-2.1/5f9c4bc2e6e086041afdfe1ba895f413/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/Frank/.gradle/caches/transforms-2/files-2.1/5f9c4bc2e6e086041afdfe1ba895f413/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/c8718b225cd4ce95b4dd18f64b2b949c/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/c8718b225cd4ce95b4dd18f64b2b949c/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/36e3ffc7818289bffa43193d5322c784/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/36e3ffc7818289bffa43193d5322c784/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha01] /home/Frank/.gradle/caches/transforms-2/files-2.1/a60f20a02489842c87b4f7d733e0f716/jetified-hilt-lifecycle-viewmodel-1.0.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha01] /home/Frank/.gradle/caches/transforms-2/files-2.1/a60f20a02489842c87b4f7d733e0f716/jetified-hilt-lifecycle-viewmodel-1.0.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-common:1.0.0-alpha01] /home/Frank/.gradle/caches/transforms-2/files-2.1/db1d3f78bc45187e34d3cad016e5bb4a/jetified-hilt-common-1.0.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-common:1.0.0-alpha01] /home/Frank/.gradle/caches/transforms-2/files-2.1/db1d3f78bc45187e34d3cad016e5bb4a/jetified-hilt-common-1.0.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.28-alpha] /home/Frank/.gradle/caches/transforms-2/files-2.1/7a4155c7c950b321052d22b5fefbc457/jetified-hilt-android-2.28-alpha/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.28-alpha] /home/Frank/.gradle/caches/transforms-2/files-2.1/7a4155c7c950b321052d22b5fefbc457/jetified-hilt-android-2.28-alpha/AndroidManifest.xml:18:3-42
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /home/Frank/.gradle/caches/transforms-2/files-2.1/5cb8df4dcca3c2fa498e70732daf6920/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /home/Frank/.gradle/caches/transforms-2/files-2.1/5cb8df4dcca3c2fa498e70732daf6920/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.2.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/3a81aa9a1aed714615e090ca0732cc63/jetified-room-ktx-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.2.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/3a81aa9a1aed714615e090ca0732cc63/jetified-room-ktx-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/16372817050a65fe95c4f35c09c34290/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/16372817050a65fe95c4f35c09c34290/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/62b79f52c02b303eea2134898dde158f/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/62b79f52c02b303eea2134898dde158f/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/4d5363b1cd2c1e3579e4ca10ee54bd43/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/4d5363b1cd2c1e3579e4ca10ee54bd43/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/Frank/.gradle/caches/transforms-2/files-2.1/f9cf02d1874875f31cac5dca806cdf52/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/Frank/.gradle/caches/transforms-2/files-2.1/f9cf02d1874875f31cac5dca806cdf52/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/Frank/.gradle/caches/transforms-2/files-2.1/31f67684df5ecb43bb06c86ec02a45d9/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/Frank/.gradle/caches/transforms-2/files-2.1/31f67684df5ecb43bb06c86ec02a45d9/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/f88f07e98289bb133eaa368e961aad83/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/f88f07e98289bb133eaa368e961aad83/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/995541b4a228531b698c98fe55c6c74c/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/995541b4a228531b698c98fe55c6c74c/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/c734355e87ef7f133eb4a49a73955ea8/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/c734355e87ef7f133eb4a49a73955ea8/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/b42eae08a40dda1e714465a79607f447/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/b42eae08a40dda1e714465a79607f447/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/1aa3d6797957aac8a1bc0e462163446d/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/1aa3d6797957aac8a1bc0e462163446d/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/ea094fb7cef764eadc12deb841254b2b/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/ea094fb7cef764eadc12deb841254b2b/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/4dbed3a02beb69d1d0c003d57b7361eb/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/4dbed3a02beb69d1d0c003d57b7361eb/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/f383bbae7f926149d1e7fa5b125bbf30/fragment-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/f383bbae7f926149d1e7fa5b125bbf30/fragment-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/effa354e16d2d8e87331e0462741e71c/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/effa354e16d2d8e87331e0462741e71c/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/75f36d62637fe628a2fcdac034b82565/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/75f36d62637fe628a2fcdac034b82565/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/44964015b4c917945c6256461b163d7b/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/44964015b4c917945c6256461b163d7b/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/ad1a16a6b34056a3e05e54b9665bf25e/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/ad1a16a6b34056a3e05e54b9665bf25e/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/Frank/.gradle/caches/transforms-2/files-2.1/e0a2e01b1e6d1dc38b1b0013f2d6b2a2/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/Frank/.gradle/caches/transforms-2/files-2.1/e0a2e01b1e6d1dc38b1b0013f2d6b2a2/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/9479172283214c8d11e9f904e0005006/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/9479172283214c8d11e9f904e0005006/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/ced6e4296dd8b18d0e494e962604f403/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/ced6e4296dd8b18d0e494e962604f403/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/ae3cc54826c335033289acdeff12b631/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/ae3cc54826c335033289acdeff12b631/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/370847008477157f2e2ae6d73079db05/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/370847008477157f2e2ae6d73079db05/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /home/Frank/.gradle/caches/transforms-2/files-2.1/6cd6aa89b9255d6f3871af811db082d3/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /home/Frank/.gradle/caches/transforms-2/files-2.1/6cd6aa89b9255d6f3871af811db082d3/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/05f42b88de11abf4f3e159da9196bc2d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/05f42b88de11abf4f3e159da9196bc2d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/5031f6cbe96cdf5c91d3a03bfc186afc/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/5031f6cbe96cdf5c91d3a03bfc186afc/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/330725a5858262b31f16924461c1bdfc/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/330725a5858262b31f16924461c1bdfc/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/e9ed7ee4ab3b6249143a30e304ad07d5/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/e9ed7ee4ab3b6249143a30e304ad07d5/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/Frank/.gradle/caches/transforms-2/files-2.1/b7e6bbdefe18c7ad831c5a5c30fe47d0/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/Frank/.gradle/caches/transforms-2/files-2.1/b7e6bbdefe18c7ad831c5a5c30fe47d0/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/Frank/.gradle/caches/transforms-2/files-2.1/a99c8c7d5370685301afa4eaa4589d78/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/Frank/.gradle/caches/transforms-2/files-2.1/a99c8c7d5370685301afa4eaa4589d78/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/73f5475d711df911131bd5d0066045e1/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/73f5475d711df911131bd5d0066045e1/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/ad1cccee964c2508d93e7f885a7c3726/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/ad1cccee964c2508d93e7f885a7c3726/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/bd0a77f8839a6423f4527b2495e245b8/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/bd0a77f8839a6423f4527b2495e245b8/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/2b3ead8d056ecb32515c32acd1f58ee2/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/2b3ead8d056ecb32515c32acd1f58ee2/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /home/Frank/.gradle/caches/transforms-2/files-2.1/7b11bf7ea8e2dce3fbca246441af2310/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /home/Frank/.gradle/caches/transforms-2/files-2.1/7b11bf7ea8e2dce3fbca246441af2310/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/Frank/.gradle/caches/transforms-2/files-2.1/df65c52efa57db73f703251dca572941/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/Frank/.gradle/caches/transforms-2/files-2.1/df65c52efa57db73f703251dca572941/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/ce2385da8447ac9ae0b765fc6f163a64/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/ce2385da8447ac9ae0b765fc6f163a64/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/366d52461d72e59e0a8cbb6e4e86985a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/366d52461d72e59e0a8cbb6e4e86985a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/184fbae048e137f7fcca38c76537f29f/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/184fbae048e137f7fcca38c76537f29f/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/90e021d1c9b27b88431a40f8119525a9/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/90e021d1c9b27b88431a40f8119525a9/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/739e4cc5c439381217ed0da38f568405/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/739e4cc5c439381217ed0da38f568405/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/4d74b66a5ee05b38bafb711f0ba0a214/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/Frank/.gradle/caches/transforms-2/files-2.1/4d74b66a5ee05b38bafb711f0ba0a214/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml
+INJECTED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml
+		ADDED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml
+		ADDED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/16372817050a65fe95c4f35c09c34290/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/16372817050a65fe95c4f35c09c34290/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/16372817050a65fe95c4f35c09c34290/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] /home/Frank/.gradle/caches/transforms-2/files-2.1/16372817050a65fe95c4f35c09c34290/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /home/Frank/.gradle/caches/transforms-2/files-2.1/f9cf02d1874875f31cac5dca806cdf52/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/Frank/.gradle/caches/transforms-2/files-2.1/f9cf02d1874875f31cac5dca806cdf52/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/Frank/.gradle/caches/transforms-2/files-2.1/f9cf02d1874875f31cac5dca806cdf52/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/Frank/.gradle/caches/transforms-2/files-2.1/f9cf02d1874875f31cac5dca806cdf52/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:2:1-24:12 reason: dagger.lint has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:2:1-24:12 reason: dagger.lint has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/Frank/Documents/code/Android/Projects/KatzeMeetUp/app/src/main/AndroidManifest.xml:2:1-24:12 reason: dagger.lint requested WRITE_EXTERNAL_STORAGE
