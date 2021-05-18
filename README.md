@@ -1,1 +1,7 @@
-# HELLO
+# Katze MeetUp
+
+## Desarrolladores/Integrantes
+
+1. Abner Martínez
+2. Álvaro Detrinidad
+3. Franklin González
